@@ -16,7 +16,7 @@ See you!
 ![Divider](https://vaxerski.xyz/github/divider.png)
 
 <details>
-  <summary><i>le footer</i></summary>
+  <summary><i>other things</i></summary>
   
    *Github* > birturkarchive <br/>
    *Site* > https://github.com/birturkarchive <br/><br/>
