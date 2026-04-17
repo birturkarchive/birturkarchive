@@ -1,16 +1,24 @@
-## Hi there 👋
+![Welcome](yag.gif)
 
-<!--
-**birturkarchive/birturkarchive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![About Me](https://vaxerski.xyz/github/aboutme2.gif)
+Greetings! I am birturkarchive. I work with x86 and x64 Assembly, C, and Go languages. Currently, I am writing an x64 kernel named LestWoods. However, if you check my profile, you will see the x86 version because the x64 version is not yet advanced enough to be shared.
 
-Here are some ideas to get you started:
+As a hobby, I create Boomer Shooter style music and 2D drawings. If possible, I am even thinking of making a package manager with the Go language that can be adapted to every operating system, but for now, I need to focus on my kernel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+See you!
+
+<br/>
+
+![Stats](https://vaxerski.xyz/github/stats1.gif)
+![](https://github-readme-stats.vercel.app/api?username=birturkarchive&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=birturkarchive&layout=compact&theme=tokyonight)
+
+![Divider](https://vaxerski.xyz/github/divider.png)
+
+<details>
+  <summary><i>le footer</i></summary>
+  
+   *Github* > birturkarchive <br/>
+   *Site* > https://github.com/birturkarchive <br/><br/>
+  
+</details>
